@@ -2,9 +2,11 @@
 # autor: Michel
 # data: 19/07/2025
 
+# Exemplo de variáveis e formatação de strings
+# Este código demonstra como criar variáveis de diferentes tipos e como formatar strings em Python.
 
-nome1 = "Michel" # variável do tipo string 
-sobrenome ='silva'
+nome1 = "Michel" # variável do tipo string
+sobrenome = 'silva'
 idade = 55 # variável do tipo inteiro
 
 print(nome1 + sobrenome , idade) # concatenação de strings e inteiro
